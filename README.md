@@ -1,6 +1,9 @@
 # UE4Intellisense-2019
 Extends Visual Studio 2019 Intellisense. Adds Unreal Engine 4 specifiers for macros: UCLASS, UPROPERTY, UFUNCTION, USTRUCT and UINTERFACE
 
+# Important
+> This is a port of [Original Code](https://github.com/rxcompile/UE4Intellisense) posted by rxcompile, all credits go to their original creator.
+
 # License
 MIT License
 
@@ -23,8 +26,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-# Important
-> This is a port of [Original Code](https://github.com/rxcompile/UE4Intellisense) posted by rxcompile, all credits go to their original creator.
 
